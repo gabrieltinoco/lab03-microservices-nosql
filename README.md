@@ -1,2 +1,2 @@
-# LAB03-DAMD-Microservi-os
+# LAB03-DAMD-Microserviços
 Microsserviços com API Gateway e NoSQL
